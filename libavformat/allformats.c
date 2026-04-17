@@ -140,6 +140,7 @@ extern const FFInputFormat  ff_dfa_demuxer;
 extern const FFInputFormat  ff_dfpwm_demuxer;
 extern const FFOutputFormat ff_dfpwm_muxer;
 extern const FFInputFormat  ff_dhav_demuxer;
+extern const FFInputFormat  ff_zlav_demuxer;
 extern const FFInputFormat  ff_dirac_demuxer;
 extern const FFOutputFormat ff_dirac_muxer;
 extern const FFInputFormat  ff_dnxhd_demuxer;
